@@ -7,3 +7,11 @@
 - **Recipe Sharing**: Post your recipes and share your cooking knowledge with others.
 - **Cultural Exploration**: Learn about different food cultures and cuisines from around the world.
 - **User-Friendly Interface**: Simple and intuitive design for easy navigation.
+
+
+### Cloning the Repository
+Clone the repository to your local machine using the following command:
+```bash
+https://github.com/hafsachenni/Portfolio_Project.git
+
+
