@@ -11,12 +11,14 @@
 
 
 ### Cloning the Repository
+
 Clone the repository to your local machine using the following command:
+
 ```bash
-https://github.com/hafsachenni/Portfolio_Project.git
+git clone https://github.com/hafsachenni/Portfolio_Project.git
+
 
 Navigate to the project directory:
-```bash
 cd Couzintak
 
 
