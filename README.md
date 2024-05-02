@@ -16,9 +16,3 @@ Clone the repository to your local machine using the following command:
 
 ```bash
 git clone https://github.com/hafsachenni/Portfolio_Project.git
-
-
-Navigate to the project directory:
-cd Couzintak
-
-
