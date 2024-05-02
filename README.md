@@ -9,7 +9,7 @@
 - **User-Friendly Interface**: Simple and intuitive design for easy navigation.
 
 
-### Cloning the Repository
+## Cloning the Repository
 Clone the repository to your local machine using the following command:
 ```bash
 https://github.com/hafsachenni/Portfolio_Project.git
