@@ -213,3 +213,8 @@ def activityPage(request):
     room_messages = Message.objects.all()
     context = {'room_messages': room_messages}
     return render(request, 'base/activity.html', context)
+
+
+
+def landing_page(request):
+    return render(request, 'base/index.html')

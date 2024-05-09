@@ -2,7 +2,14 @@
 <header class="header header--loggedIn">
     <div class="container">
       <a href="{% url 'home' %}" class="header__logo">
-        <img src="{% static 'images/letseee.png' %}" />
+        <!--<img src="{% static 'images/couzintaklogo.png' %}" />-->
+        <style>
+          .header__logo > h1 {
+            font-weight: 700;
+            font-size: 2rem;
+            color: rgb(201, 159, 81);
+}
+        </style>
         <h1>Couzintak</h1>
       </a>
       <form class="header__search" method="GET" action="{% url 'home' %}">
