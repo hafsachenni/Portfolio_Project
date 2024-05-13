@@ -1,3 +1,5 @@
+![Your App Logo](/backend/Couzintak/static/images/couzintaklogo.png)
+
 # Couzintak - A Culinary Community Platform
 
 **Couzintak** is a platform designed for food enthusiasts to gather, share culinary tips, post recipes, and discuss food-related topics. Whether you're a professional chef, a home cook, or someone who enjoys discovering new flavors, Couzintak is the perfect place to connect with like-minded individuals.
