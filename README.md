@@ -28,6 +28,11 @@
 ## Installation
 
 1. Clone the repository:
-git clone https://github.com/hafsachenni/Portfolio_Project.git
 
+
+```bash
+git clone https://github.com/hafsachenni/Portfolio_Project.git
+```
+
+2. Change directory:
 cd couzintak
