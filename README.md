@@ -1,4 +1,7 @@
-![Your App Logo](/backend/Couzintak/static/images/couzintaklogo.png)
+<p align="center">
+  <img src="/backend/Couzintak/static/images/couzintaklogo.png" alt="my App Logo" width="200" height="200">
+</p>
+
 
 # Couzintak - A Culinary Community Platform
 
