@@ -31,4 +31,6 @@
 ```bash
 git clone https://github.com/hafsachenni/Portfolio_Project.git
 
-2. cd couzintak
+2. cd directory:
+```bash
+cd couzintak
