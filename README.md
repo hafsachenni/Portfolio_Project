@@ -35,4 +35,5 @@ git clone https://github.com/hafsachenni/Portfolio_Project.git
 ```
 
 2. Change directory:
+```bash
 cd couzintak
