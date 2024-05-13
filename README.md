@@ -7,9 +7,8 @@
 2. [Requirements](#requirements)
 3. [Installation](#installation)
 4. [Usage](#usage)
-5. [Contributing](#contributing)
 5. [Related projects](#projects)
-7. [Licensing](#license)
+6. [Licensing](#license)
 
 ## Features
 - **Discussion Rooms**: Join or create rooms to discuss specific culinary topics with your community.
