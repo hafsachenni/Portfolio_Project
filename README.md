@@ -7,7 +7,7 @@
 2. [Requirements](#requirements)
 3. [Installation](#installation)
 4. [Usage](#usage)
-5. [Related projects](#relatedprojects)
+5. [Related projects](#related-projects)
 6. [Contributors](#contributors)
 
 ## Features
