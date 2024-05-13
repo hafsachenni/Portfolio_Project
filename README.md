@@ -38,11 +38,12 @@ cd backend/Couzintak/
 
 3. Create a virtual environment:
 ```bash
+python -m venv myvenv
 ```
 
 4. Activate the virtual environment:
 ```bash
-myvenv/bin/activate
+source myvenv/bin/activate
 ```
 
 5. Install the requirements:
