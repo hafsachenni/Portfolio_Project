@@ -38,7 +38,7 @@ cd backend/Couzintak/
 
 3. Create a virtual environment:
 ```bash
-python -m venv myvenv
+python3 -m venv myvenv
 ```
 
 4. Activate the virtual environment:
@@ -57,3 +57,10 @@ To run the app locally, use the following command:
 python manage.py runserver
 ```
 Then, the development server will be started at http://127.0.0.1:8000/
+
+## Related projects
+### Similar Projects
+- **[Awesome Recipe App](https://github.com/awesome-dev/awesome-recipe-app)**: A community-driven recipe app with a focus on user-generated content.
+
+### Inspirations
+- **[Cooking Blog](https://example.com/cooking-blog)**: A popular cooking blog that inspired some design elements and features of our recipe website.
