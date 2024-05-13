@@ -1,4 +1,4 @@
-<p align="center">
+<p align="center" style="margin: 0;">
   <img src="/backend/Couzintak/static/images/couzintaklogo.png" alt="my App Logo" width="140" height="140">
 </p>
 
