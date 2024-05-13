@@ -8,7 +8,7 @@
 3. [Installation](#installation)
 4. [Usage](#usage)
 5. [Related projects](#projects)
-6. [Licensing](#license)
+6. [Contributors](#contributors)
 
 ## Features
 - **Discussion Rooms**: Join or create rooms to discuss specific culinary topics with your community.
@@ -59,8 +59,8 @@ python manage.py runserver
 Then, the development server will be started at http://127.0.0.1:8000/
 
 ## Related projects
-### Similar Projects
-- **[Awesome Recipe App](https://github.com/awesome-dev/awesome-recipe-app)**: A community-driven recipe app with a focus on user-generated content.
+#### Similar Projects
+- **[Allrecipes](https://www.allrecipes.com/)**: A community-driven recipe app with a focus on user-generated content.
 
-### Inspirations
-- **[Cooking Blog](https://example.com/cooking-blog)**: A popular cooking blog that inspired some design elements and features of our recipe website.
+## Contributors:
+Hafsa Chenni
