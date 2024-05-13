@@ -37,7 +37,22 @@ git clone https://github.com/hafsachenni/Portfolio_Project.git
 cd backend/Couzintak/
 ```
 
-3. Install Dependecies:
+3. Create a virtual environment:
+```bash
+```
+
+4. Activate the virtual environment:
+```bash
+myvenv/bin/activate
+```
+
+5. Install the requirements:
 ```bash
 pip install -r requirements.txt
+```
+
+## Usage
+To run the app locally, use the following command:
+```bash
+python manage.py runserver
 ```
