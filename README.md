@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="/backend/Couzintak/static/images/couzintaklogo.png" alt="my App Logo" width="150" height="150">
+  <img src="/backend/Couzintak/static/images/couzintaklogo.png" alt="my App Logo" width="140" height="140">
 </p>
 
 
