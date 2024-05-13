@@ -28,12 +28,16 @@
 ## Installation
 
 1. Clone the repository:
-
-
 ```bash
 git clone https://github.com/hafsachenni/Portfolio_Project.git
 ```
 
-2. Change directory:
+2. Navigate to the project directory:
 ```bash
-cd couzintak
+cd backend/Couzintak/
+```
+
+3. Install Dependecies:
+```bash
+pip install -r requirements.txt
+```
