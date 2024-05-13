@@ -58,9 +58,9 @@ python manage.py runserver
 ```
 Then, the development server will be started at http://127.0.0.1:8000/
 
-## Related projects
-#### Similar Projects
+## Related project
+#### Similar Project
 - **[Allrecipes](https://www.allrecipes.com/)**: A community-driven recipe app with a focus on user-generated content.
 
 ## Contributors:
-Hafsa Chenni
+Hafsa Chenni[https://github.com/hafsachenni]
