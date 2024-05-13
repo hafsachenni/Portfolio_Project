@@ -25,7 +25,7 @@
 - django-cors-headers
 - pycodestyle
 
-### Cloning the Repository
+## Installation
 
 Clone the repository to your local machine using the following command:
 
